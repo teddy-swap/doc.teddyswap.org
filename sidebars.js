@@ -24,7 +24,7 @@ const sidebars = {
     {
       type: 'category',
       label: 'Get started',
-      items: ['introduction'],
+      items: ['TeddySwap'],
     },
   ],
    */
