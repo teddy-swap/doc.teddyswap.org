@@ -1,5 +1,4 @@
 name: Deploy to Github Pages
-description: Deploy to Github Pages
 
 on:
   push:
