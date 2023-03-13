@@ -67,7 +67,7 @@ const config = {
         title: 'TeddySwap',
         logo: {
           alt: 'My Site Logo',
-          src: 'img/Teddy-Logo.svg',
+          src: 'img/Teddy-Logo-1.svg',
         },
         items: [
           {
