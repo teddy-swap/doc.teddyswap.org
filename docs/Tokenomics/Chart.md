@@ -20,6 +20,7 @@ sidebar_position: 9
 | Yield | 3,625,000,000 | 72.50% |  | 60 Months |
 
 </div>
+
 Note: these are projections, and some numbers are subject to change a bit. Adjustments can happen in the following ways: 
 
 ## FISO Bonus
