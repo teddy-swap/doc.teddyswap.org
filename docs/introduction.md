@@ -1,4 +1,6 @@
-
+---
+sidebar_position: 1
+---
 # Introduction
 #### Coziest Stablecoin DEX on Cardano
 The creation of TeddySwap stems from the fundamental belief that Cardano, due to its scientific approach and meticulous implementation process, is the most decentralized and secure platform, poised for domination within the cryptocurrency industry and future world financial operating system.
