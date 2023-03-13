@@ -26,7 +26,7 @@ const sidebars = {
     },
  
   sidebar: [
-    'TESTNET GUIDE',
+    "label" = 'TESTNET GUIDE',
   ],
    */
 };
