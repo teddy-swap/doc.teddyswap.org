@@ -1,3 +1,6 @@
+---
+sidebar_position: 1
+---
 # Invariant Calculation
 
 The following is a summary of the invariant calculation that will be used to reduce slippage and impermanent loss on stable/stable trading pairs. 
