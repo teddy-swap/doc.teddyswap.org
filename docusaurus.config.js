@@ -66,7 +66,7 @@ const config = {
       navbar: {
         title: 'TeddySwap',
         logo: {
-          alt: 'My Site Logo',
+          alt: 'Logo',
           src: 'img/Teddy-Logo-1.svg',
         },
         items: [
