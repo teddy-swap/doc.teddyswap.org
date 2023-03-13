@@ -2,10 +2,9 @@
 sidebar_position: 9
 ---
 # Chart
-<div align="center">
   
 ![Image](https://github.com/teddy-swap/docs.teddyswap.org/blob/main/src/TeddySwap_Tokenomics_Chart.png "Token Distribution Visual Breakdown")
-
+<div align="center">
 | **Token Allocation** | **Number of Tokens** | **% of Total Supply** | **Cliff** | **Emission Length (MONTHS)** |
 |:-------------|:-------------|:----|:-----|:-----|
 | FISO           | 25,000,000  | 0.50% | 
@@ -20,7 +19,6 @@ sidebar_position: 9
 | Yield | 3,625,000,000 | 72.50% |  | 60 Months |
 
 </div>
-
 Note: these are projections, and some numbers are subject to change a bit. Adjustments can happen in the following ways: 
 
 ## FISO Bonus
