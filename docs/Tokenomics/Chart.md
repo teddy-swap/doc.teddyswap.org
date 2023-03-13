@@ -5,7 +5,7 @@ sidebar_position: 9
 <div align="center">
   
 ![Image](https://github.com/teddy-swap/docs.teddyswap.org/blob/main/src/TeddySwap_Tokenomics_Chart.png "Token Distribution Visual Breakdown")
-  
+
 | **Token Allocation** | **Number of Tokens** | **% of Total Supply** | **Cliff** | **Emission Length (MONTHS)** |
 |:-------------|:-------------|:----|:-----|:-----|
 | FISO           | 25,000,000  | 0.50% | 
