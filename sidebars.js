@@ -25,7 +25,7 @@ const sidebars = {
       //items: ['introduction'],
     },
  
-  sidebar: [
+  tutorialSidebar: [
     "label" = 'TESTNET GUIDE',
   ],
    */
