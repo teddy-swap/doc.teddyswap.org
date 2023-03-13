@@ -6,7 +6,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  //title: 'TeddySwap',
+  title: 'TeddySwap',
   tagline: 'The Coziest Stablecoin DEX on Cardano 🧸',
   favicon: 'img/favicon.ico',
 
@@ -64,7 +64,7 @@ const config = {
       // Replace with your project's social card
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
-        title: 'TeddySwap',
+        //title: 'TeddySwap',
         logo: {
           alt: 'Logo',
           src: 'img/Teddy-Logo-1.svg',
