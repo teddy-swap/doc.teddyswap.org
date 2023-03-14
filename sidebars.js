@@ -39,8 +39,8 @@ const sidebars = {
               'Swap'
               'Liquidity',
               'Redeem',
-              'Create Liquidity',
-              'Lock Liquidity',
+              'Create%20Liquidity',
+              'Lock%20Liquidity',
               'Orders'
              ],
       collapsible: false
