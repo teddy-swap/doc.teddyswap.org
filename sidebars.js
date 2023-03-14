@@ -23,7 +23,7 @@ const sidebars = {
               'disclaimer',
               'objectives',
               'Advantages',
-              'Product Summary': ['Product Summary/Product Summary'],
+              'Product Summary/Product Summary',
               'Yield Opportunities',
               'Roadmap', 'Security','Tokenomics/Chart',
               'Governance',
@@ -33,7 +33,7 @@ const sidebars = {
     {
       type: 'category',
       label: 'Testnet Guide',
-      items: ['Nami-Setup'],
+      items: ['Nami Setup'],
       collapsible: false
     }
   ],
