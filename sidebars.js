@@ -23,11 +23,9 @@ const sidebars = {
               'disclaimer',
               'objectives',
               'Advantages',
-              
               'Yield Opportunities',
               'Roadmap',
               'Security',
-              
               {
                 type: 'category',
                 label: 'Tokenomics',
