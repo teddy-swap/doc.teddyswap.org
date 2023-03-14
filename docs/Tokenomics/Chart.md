@@ -1,5 +1,3 @@
-id: 'Tokenomics'
-title: 'Chart'
 ---
 sidebar_position: 1
 ---
