@@ -25,7 +25,7 @@ const sidebars = {
     {
       type: 'category',
       label: 'Testnet Guide',
-      items: ['Getting Started'],
+      items: ['Testnet Guide/Getting Started'],
       collapsible: false
     }
   ],
