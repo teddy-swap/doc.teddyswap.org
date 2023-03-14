@@ -30,6 +30,7 @@ const sidebars = {
                 items: [
                        'Product Summary/Invariant Calculation',
                        ],
+              },
               'Yield Opportunities',
               'Roadmap',
               'Security',
