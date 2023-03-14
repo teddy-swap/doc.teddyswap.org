@@ -25,7 +25,7 @@ const sidebars = {
     {
       type: 'category',
       label: 'Testnet Guide',
-      items: ['Nami Guide'],
+      items: ['intro'],
       collapsible: false
     }
   ],
