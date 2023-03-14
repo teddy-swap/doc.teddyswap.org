@@ -29,7 +29,7 @@ const FeatureList: FeatureItem[] = [
   },
   {
     title: 'Yield Farming',
-    Svg: require('@site/static/img/faming.webp').default,
+    Svg: require('@site/static/img/farming.webp').default,
     description: (
       <>
         Earn our platform token TEDY by providing liquidity to the available stablecoin pairs on our decentralized exchange.
