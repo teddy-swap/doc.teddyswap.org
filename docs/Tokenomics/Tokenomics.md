@@ -14,11 +14,11 @@ The following is a summary of how the tokenomics will be designed to meet those 
 
 ## ISO: Initial Stakepool Offering
 
-The FISO is currently under way. Learn more on the . Teddy Bears Club NFT holders will receive bonuses to their FISO allocation. 
+The FISO is currently under way. Learn more on the [TeddySwap FISO Dashboard](https://fiso.teddyswap.org/). Teddy Bears Club NFT holders will receive bonuses to their FISO allocation. 
 
 ## INO: Initial NFT Offering
 
-The Teddy Bears Club NFT mint will be launched in a few editions. 1st Edition is already completed. You can learn more on the . 
+The Teddy Bears Club NFT mint will be launched in a few editions. 1st Edition is already completed. You can learn more on the [Teddy Bears Club Peppermint page](https://teddyswap.peppermintnft.io/). 
 
 ## LBE: Liquidity Bootstrapping Event
 
