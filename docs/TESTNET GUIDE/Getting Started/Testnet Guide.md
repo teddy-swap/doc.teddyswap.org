@@ -1,6 +1,8 @@
 ---
+title: Nami
 sidebar_position: 12
 ---
+
 # Getting Started
 #### How to get Testnet tokens and connect to the TeddySwap Public Test
 
