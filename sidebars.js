@@ -23,7 +23,13 @@ const sidebars = {
               'disclaimer',
               'objectives',
               'Advantages',
-              'Product Summary/Product Summary',
+              {
+                type: 'category',
+                label: 'Product Summary',
+                id: 'Product Summary/Product Summary'',
+                items: [
+                       'Product Summary/Invariant Calculation',
+                       ],
               'Yield Opportunities',
               'Roadmap',
               'Security',
