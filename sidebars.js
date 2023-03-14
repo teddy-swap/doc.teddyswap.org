@@ -28,7 +28,7 @@ const sidebars = {
                 label: 'Product Summary',
                 id: 'Product Summary/Product Summary',
                 items: [
-                       'Product Summary/Invariant Calculation',
+                       'Product Summary/Invariant Calculation'
                        ],
               },
               'Yield Opportunities',
