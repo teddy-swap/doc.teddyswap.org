@@ -19,7 +19,6 @@ const sidebars = {
       type: 'category',
       label: 'Overview',
       items: [
-             {
               'introduction',
               'disclaimer',
               'objectives',
@@ -29,7 +28,6 @@ const sidebars = {
               'Roadmap', 'Security','Tokenomics/Chart',
               'Governance',
               'Team'],
-               },
       collapsible: false
     },
     {
