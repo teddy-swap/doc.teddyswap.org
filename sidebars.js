@@ -44,7 +44,7 @@ const sidebars = {
               'Orders',
              ],
       collapsible: false
-    }
+    },
   ],
 };
 module.exports = sidebars;
