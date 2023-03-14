@@ -77,9 +77,10 @@ const config = {
             label: 'Get Started',
           },
           {
-             href: 'https://github.com/teddy-swap',
-            label: 'GitHub',
+             href: 'https://blog.teddyswap.org',
+            label: 'Blog',
             position: 'left',
+          },
           {
             href: 'https://github.com/teddy-swap',
             label: 'GitHub',
