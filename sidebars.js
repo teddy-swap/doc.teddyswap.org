@@ -18,7 +18,7 @@ const sidebars = {
     {
       type: 'category',
       label: 'Overview',
-      items: ['introduction', 'Disclaimer', 'Objectives', 'Advantages', 'Product Summary', 'Yield Opportunities', 'Roadmap', 'Security', 'Tokenomics', 'Governance', 'Team],
+      items: ['introduction', 'Disclaimer', 'Objectives', 'Advantages', 'Product Summary', 'Yield Opportunities', 'Roadmap', 'Security', 'Tokenomics', 'Governance', 'Team'],
       collapsible: false
     },
     {
