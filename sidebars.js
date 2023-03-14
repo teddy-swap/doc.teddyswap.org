@@ -18,19 +18,26 @@ const sidebars = {
     {
       type: 'category',
       label: 'Overview',
-      items: ['introduction', 'disclaimer', 'objectives', 'Advantages', 'Product Summary/Product Summary', 'Yield Opportunities', 'Roadmap', 'Security', 'Tokenomics/Chart', 'Governance', 'Team'],
+      items: ['introduction',
+              'disclaimer',
+              'objectives',
+              'Advantages',
+              'Product Summary/Product Summary',
+              'Yield Opportunities',
+              'Roadmap', 'Security','Tokenomics/Chart',
+              'Governance',
+              'Team'],
+     items: ['Product Summary/Product Summary',
+              'Yield Opportunities',
+              'Roadmap', 'Security','Tokenomics/Chart',
+              'Governance',
+              'Team'],
       collapsible: false
     },
     {
       type: 'category',
-      label: 'Product Summary',
-      items: ['Product Summary/Product Summary'],
-      collapsible: true
-    },
-    {
-      type: 'category',
       label: 'Testnet Guide',
-      items: ['intro'],
+      items: ['Nami-Setup'],
       collapsible: false
     }
   ],
