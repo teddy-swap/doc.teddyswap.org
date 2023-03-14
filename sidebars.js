@@ -26,9 +26,15 @@ const sidebars = {
               'Advantages',
               'Product Summary/Product Summary',
               'Yield Opportunities',
-              'Roadmap', 'Security','Tokenomics/Chart',
+              'Roadmap',
+              'Security',
+              {
+                type: 'category',
+                label: 'Tokenomics',
+                items: ['Tokenomics/Chart',],
+              },
               'Governance',
-              'Team'
+              'Team',
               ],
       collapsible: false
     },
@@ -37,7 +43,7 @@ const sidebars = {
       label: 'Testnet Guide',
       items: ['Getting Started',
               'Nami Setup',
-              'Swap'
+              'Swap',
               'Liquidity',
               'Redeem',
               'Orders'
