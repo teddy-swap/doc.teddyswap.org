@@ -52,7 +52,8 @@ const sidebars = {
               'Swap',
               'Liquidity',
               'Redeem',
-              'Orders'
+              'Orders',
+              'Badger'
              ],
       collapsible: false
    },
