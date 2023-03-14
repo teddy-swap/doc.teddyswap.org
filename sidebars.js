@@ -34,7 +34,7 @@ const sidebars = {
     {
       type: 'category',
       label: 'Testnet Guide',
-      items: ['Nami Setup'],
+      items: ['Getting Started'],
       collapsible: false
     }
   ],
