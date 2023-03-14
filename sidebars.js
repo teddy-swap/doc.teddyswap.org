@@ -38,7 +38,7 @@ const sidebars = {
               'Nami Setup',
               'Swap',
               'Liquidity',
-              'Redeem Liquidity',
+              'Redeem',
               'Create Liquidity',
               'Lock Liquidity',
               'Orders',
