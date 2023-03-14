@@ -25,7 +25,7 @@ const sidebars = {
     {
       type: 'category',
       label: 'Testnet Guide',
-      items: ['Tokenomics'],
+      items: ['Team'],
       collapsible: false
     }
   ],
