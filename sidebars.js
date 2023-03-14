@@ -26,7 +26,7 @@ const sidebars = {
               {
                 type: 'category',
                 label: 'Product Summary',
-                id: 'Product Summary/Product Summary'',
+                id: 'Product Summary/Product Summary',
                 items: [
                        'Product Summary/Invariant Calculation',
                        ],
