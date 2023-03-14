@@ -34,7 +34,15 @@ const sidebars = {
     {
       type: 'category',
       label: 'Testnet Guide',
-      items: ['Getting Started' ,'Nami Setup'],
+      items: ['Getting Started',
+              'Nami Setup',
+              'Swap',
+              'Liquidity',
+              'Redeem Liquidity',
+              'Create Liquidity',
+              'Lock Liquidity',
+              'Orders',
+             ],
       collapsible: false
     }
   ],
