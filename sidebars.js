@@ -18,8 +18,8 @@ const sidebars = {
     {
       type: 'category',
       label: 'Overview',
-      //items: ['introduction', 'disclaimer', 'objectives'],
-      items: ['introduction', 'disclaimer', 'objectives', 'Advantages', 'Yield Opportunities', 'Roadmap', 'Security', 'Governance', 'Team'],
+      items: ['introduction', 'disclaimer', 'objectives'],
+      //items: ['introduction', 'disclaimer', 'objectives', 'Advantages', 'Yield Opportunities', 'Roadmap', 'Security', 'Governance', 'Team'],
       collapsible: false
     },
     {
