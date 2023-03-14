@@ -3,7 +3,7 @@ sidebar_position: 1
 ---
 # Chart
   
-![Image](https://github.com/teddy-swap/docs.teddyswap.org/blob/main/docs/Tokenomics/img/TeddySwap_Tokenomics_Chart.png "Token Distribution Visual Breakdown")
+![](./img/TeddySwap_Tokenomics_Chart.png "Token Distribution Visual Breakdown")
 
 | **Token Allocation** | **Number of Tokens** | **% of Total Supply** | **Cliff** | **Emission Length (MONTHS)** |
 |:-------------|:-------------|:----|:-----|:-----|
