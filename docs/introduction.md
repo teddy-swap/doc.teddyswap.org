@@ -2,8 +2,10 @@
 sidebar_position: 1
 ---
 # Introduction
-![TeddySwap](./img/Teddy.webp)
 #### Coziest Stablecoin DEX on Cardano
+
+![TeddySwap](./img/Teddy.webp)
+
 The creation of TeddySwap stems from the fundamental belief that Cardano, due to its scientific approach and meticulous implementation process, is the most decentralized and secure platform, poised for domination within the cryptocurrency industry and future world financial operating system.
 
 Looking at the Cardano ecosystem, it appears this blockchain is on the cusp of an inevitable explosion of the stablecoin ecosytem, and we believe TeddySwap has the potential to capture a significant market share of this fundamental sector of Cardano DeFi.
