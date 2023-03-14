@@ -77,8 +77,18 @@ const config = {
             label: 'Get Started',
           },
           {
-             href: 'https://blog.teddyswap.org',
+            href: 'https://blog.teddyswap.org',
             label: 'Blog',
+            position: 'left',
+          },
+          {
+            href: 'https://teddyswap.org',
+            label: 'Website',
+            position: 'left',
+          },
+          {
+            label: 'Testnet',
+            href: 'https://preview.app.teddyswap.org',
             position: 'left',
           },
           {
@@ -123,6 +133,14 @@ const config = {
               {
                 label: 'Blog',
                 href: 'https://blog.teddyswap.org',
+              },
+              {
+                label: 'Website',
+                href: 'https://teddyswap.org',
+              },
+              {
+                label: 'Testnet',
+                href: 'https://preview.app.teddyswap.org',
               },
               {
                 label: 'GitHub',
