@@ -10,32 +10,29 @@ type FeatureItem = {
 
 const FeatureList: FeatureItem[] = [
   {
-    title: 'Easy to Use',
-    Svg: require('@site/static/img/hero-car.webp').default,
-    description: (
-      <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
-      </>
-    ),
-  },
-  {
-    title: 'Focus on What Matters',
+    title: 'Democratized Ownership',
     Svg: require('@site/static/img/plane.webp').default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        Deconstruct the walled gardens of classic financial institutions by becoming an owner of the TeddySwap protocol.
       </>
     ),
   },
   {
-    title: 'Powered by React',
+    title: 'Efficient Liquidity',
+    Svg: require('@site/static/img/hero-car.webp').default,
+    description: (
+      <>
+       Level up beyond constant product pools and let your capital work for you by providing liquidity to historically stable and more predictable assets.
+      </>
+    ),
+  },
+  {
+    title: 'Yield Farming',
     Svg: require('@site/static/img/faming.webp').default,
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        Earn our platform token TEDY by providing liquidity to the available stablecoin pairs on our decentralized exchange.
       </>
     ),
   },
