@@ -37,9 +37,8 @@ const sidebars = {
                        'Tokenomics/Utility' 
                        ],
               },
-              
               'Governance',
-              'Team',
+              'Team'
               ],
       collapsible: false
     },
