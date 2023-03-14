@@ -23,8 +23,7 @@ const sidebars = {
       //type: 'category',
       //label: 'Get started',
       //items: ['introduction'],
-    },
-   */
+  //},
 };
 
 module.exports = sidebars;
