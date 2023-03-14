@@ -27,7 +27,8 @@ const sidebars = {
               'Yield Opportunities',
               'Roadmap', 'Security','Tokenomics/Chart',
               'Governance',
-              'Team'],
+              'Team'
+              ],
       collapsible: false
     },
     {
