@@ -30,7 +30,7 @@ const sidebars = {
               {
                 type: 'category',
                 label: 'Tokenomics',
-                link: {type: 'doc', id: 'Tokenomics/Tokenomics'},
+                id: 'Tokenomics/Tokenomics',
                 items: [
                        'Tokenomics/Chart',
                        'Tokenomics/Yield Emissions',
