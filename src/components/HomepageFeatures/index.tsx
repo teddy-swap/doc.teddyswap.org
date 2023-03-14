@@ -11,7 +11,7 @@ type FeatureItem = {
 const FeatureList: FeatureItem[] = [
   {
     title: 'Democratized Ownership',
-    Svg: require('@site/static/img/teddy1.svg').default,
+    Svg: require('@site/static/img/favicon.svg').default,
     description: (
       <>
         Deconstruct the walled gardens of classic financial institutions by becoming an owner of the TeddySwap protocol.
@@ -20,7 +20,7 @@ const FeatureList: FeatureItem[] = [
   },
   {
     title: 'Efficient Liquidity',
-    Svg: require('@site/static/img/honey-bee.svg').default,
+    Svg: require('@site/static/img/favicon.svg').default,
     description: (
       <>
        Level up beyond constant product pools and let your capital work for you by providing liquidity to historically stable and more predictable assets.
@@ -29,7 +29,7 @@ const FeatureList: FeatureItem[] = [
   },
   {
     title: 'Yield Farming',
-    Svg: require('@site/static/img/teddy2.svg').default,
+    Svg: require('@site/static/img/favicon.svg').default,
     description: (
       <>
         Earn our platform token TEDY by providing liquidity to the available stablecoin pairs on our decentralized exchange.
