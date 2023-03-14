@@ -24,10 +24,6 @@ const sidebars = {
       //label: 'Get started',
       //items: ['introduction'],
     },
- 
-  tutorialSidebar: [
-    "label" = 'TESTNET GUIDE',
-  ],
    */
 };
 
