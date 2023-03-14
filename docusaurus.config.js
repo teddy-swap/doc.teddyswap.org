@@ -8,7 +8,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'TeddySwap',
   tagline: 'The Coziest Stablecoin DEX on Cardano 🧸',
-  favicon: 'img/favicon.ico',
+  favicon: 'img/favicon.svg',
 
   // Set the production url of your site here
   url: 'https://docs-teddyswap-org.pages.dev',
@@ -64,10 +64,10 @@ const config = {
       // Replace with your project's social card
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
-        //title: 'TeddySwap',
+        title: 'TeddySwap',
         logo: {
           alt: 'Logo',
-          src: 'img/Teddy-Logo-1.svg',
+          src: 'img/favicon.svg',
         },
         items: [
           {
