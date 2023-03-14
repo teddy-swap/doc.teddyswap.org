@@ -42,6 +42,7 @@ const sidebars = {
               'Orders'
              ],
       collapsible: false
+        },
     },
   ],
 };
