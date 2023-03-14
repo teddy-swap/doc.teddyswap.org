@@ -24,18 +24,6 @@ const sidebars = {
               'objectives',
               'Advantages',
               
-              {
-                type: 'category',
-                label: 'Tokenomics',
-                id: 'Tokenomics/Tokenomics',
-                items: [
-                       'Tokenomics/Chart',
-                       'Tokenomics/Yield Emissions',
-                       'Tokenomics/Staking Rewards',
-                       'Tokenomics/Utility' 
-                       ],
-              },
-              
               'Yield Opportunities',
               'Roadmap',
               'Security',
