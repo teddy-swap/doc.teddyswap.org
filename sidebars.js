@@ -19,8 +19,7 @@ const sidebars = {
     {
       type: 'category',
       label: 'Overview',
-      items: [
-              'introduction',
+      items: ['introduction',
               'disclaimer',
               'objectives',
               'Advantages',
@@ -31,7 +30,12 @@ const sidebars = {
               {
                 type: 'category',
                 label: 'Tokenomics',
-                items: ['Tokenomics/Chart',],
+                items: ['Tokenomics/Tokenomics',
+                       'Tokenomics/Chart',
+                       'Tokenomics/Yield Emissions',
+                       'Tokenomics/Staking Rewards',
+                       'Tokenomics/Utility' 
+                       ],
               },
               'Governance',
               'Team',
