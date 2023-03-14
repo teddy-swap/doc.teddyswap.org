@@ -14,7 +14,8 @@
 /** @type {import('@docusaurus/plugin-content-docs').SidebarsConfig} */
 const sidebars = {
   // By default, Docusaurus generates a sidebar from the docs folder structure
-  defaultSidebar: [
+  defaultSidebar:
+ [
     {
       type: 'category',
       label: 'Overview',
@@ -42,8 +43,7 @@ const sidebars = {
               'Orders'
              ],
       collapsible: false
-        },
-    },
+   },
   ],
 };
 module.exports = sidebars;
