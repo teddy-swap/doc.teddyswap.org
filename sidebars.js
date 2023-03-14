@@ -19,7 +19,8 @@ const sidebars = {
     {
       type: 'category',
       label: 'Overview',
-      items: ['introduction',
+      items: [
+              'introduction',
               'disclaimer',
               'objectives',
               'Advantages',
@@ -45,7 +46,8 @@ const sidebars = {
     {
       type: 'category',
       label: 'Testnet Guide',
-      items: ['Getting Started',
+      items: [
+              'Getting Started',
               'Nami Setup',
               'Swap',
               'Liquidity',
