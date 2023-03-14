@@ -27,7 +27,7 @@ const sidebars = {
               'Roadmap', 'Security','Tokenomics/Chart',
               'Governance',
               'Team'],
-     items: ['Product Summary/Product Summary',
+     ['Product Summary/Product Summary',
               'Yield Opportunities',
               'Roadmap', 'Security','Tokenomics/Chart',
               'Governance',
