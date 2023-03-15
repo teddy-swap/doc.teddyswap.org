@@ -12,56 +12,6 @@
 // @ts-check
 
 /** @type {import('@docusaurus/plugin-content-docs').SidebarsConfig} */
-// const sidebars = {
-//   // By default, Docusaurus generates a sidebar from the docs folder structure
-//   defaultSidebar:
-//  [
-//     {
-//       type: 'category',
-//       label: 'Overview',
-//       items: [
-//               'introduction',
-//               'disclaimer',
-//               'objectives',
-//               'Advantages',
-//               'Yield Opportunities',
-//               'Roadmap',
-//               'Security',
-//               {
-//                 type: 'category',
-//                 label: 'Tokenomics',
-//                 // id: 'Tokenomics/Tokenomics',
-             
-//                 items: [
-                        
-//                         'Tokenomics/Chart',
-//                         'Tokenomics/Yield Emissions',
-//                         'Tokenomics/Staking Rewards',
-//                         'Tokenomics/Utility' 
-//                        ],
-//               },
-//               'Governance',
-//               'Team'
-//               ],
-//       collapsible: false
-//     },
-//     {
-//       type: 'category',
-//       label: 'Testnet Guide',
-//       items: [
-//               'Getting Started',
-//               'Nami Setup',
-//               'Swap',
-//               'Liquidity',
-//               'Redeem',
-//               'Orders',
-//               'Badger'
-//              ],
-//       collapsible: false
-//    },
-//   ],
-// };
-
 const sidebars = {
   // By default, Docusaurus generates a sidebar from the docs folder structure
   defaultSidebar: [
