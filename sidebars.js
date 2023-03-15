@@ -68,7 +68,8 @@ const sidebars = {
       type: 'link',
       label: 'Testnet Faucet',
       href: 'https://docs.cardano.org/cardano-testnet/tools/faucet'
-    },
+    }, 
+   },
             'Testnet',
           ],
         },
