@@ -108,6 +108,10 @@ const config = {
                 label: 'Get Started',
                 to: '/docs/introduction',
               },
+              {
+                label: 'Testnet Guide',
+                to: '/docs/TESTNET GUIDE/Getting Started',
+              },
             ],
           },
           {
@@ -149,7 +153,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} TeddySwap Built with Docusaurus.`,
       },
       prism: {
         theme: lightCodeTheme,
