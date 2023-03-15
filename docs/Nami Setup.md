@@ -6,7 +6,7 @@
 
 2. Under network, choose "Preview" from the drop-down
 
-![Nami](./img/Nami-Settings.webp) ![Nami](./img/Nami-Preview-Settings.webp)
+![Nami](./img/Nami-Settings.webp)
 
 3. You will now see "Preview" in the bottom left corner
 
