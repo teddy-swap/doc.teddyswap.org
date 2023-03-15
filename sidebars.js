@@ -60,16 +60,12 @@ const sidebars = {
           items: [
             'Getting Started',
             'Nami Setup',
-  {
-  type: 'category',
-  label: 'External Links',
-  items: [
     {
       type: 'link',
       label: 'Testnet Faucet',
       href: 'https://docs.cardano.org/cardano-testnet/tools/faucet'
     }, 
-   },
+
             'Testnet',
           ],
         },
