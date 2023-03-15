@@ -43,11 +43,11 @@ const sidebars = {
             'Tokenomics/Yield Emissions',
             'Tokenomics/Staking Rewards',
             'Tokenomics/Utility',
-            {
-              type: 'link',
-              label: 'Testnet Faucet',
-              href: 'https://docs.cardano.org/cardano-testnet/tools/faucet'
-            },
+           // {
+             // type: 'link',
+              //label: 'Testnet Faucet',
+              //href: 'https://docs.cardano.org/cardano-testnet/tools/faucet'
+            //},
             //'Testnet'
           ],
         },
