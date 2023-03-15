@@ -121,7 +121,7 @@ const sidebars = {
         'Lock Liquidity',
         'Orders',
         'Badger',
-         {
+        {
           type: 'category',
           label: 'Learn More',
           items: [
