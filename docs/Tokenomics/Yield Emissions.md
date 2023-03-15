@@ -11,7 +11,7 @@ The yield emission can be adjusted up or down by 25% on any given emission perio
 
 Total average yield emission over time is expressed in the following chart.
 
-![Image](https://github.com/teddy-swap/docs.teddyswap.org/blob/main/docs/Tokenomics/img/TeddySwap-Yield.png)
+![Image](img/TeddySwap-Yield.png)
 
 The exact numbers will be worked out through data collected in the adjustment phase and an algorithm will then adjust the emissions automatically to meet the growth targets. 
 
