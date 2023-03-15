@@ -60,6 +60,7 @@ const sidebars = {
           items: [
             'Getting Started',
             'Nami Setup',
+            'Eternl Setup',
             'Testnet Faucet',
             'Testnet'
           ],
