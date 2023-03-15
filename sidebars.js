@@ -14,6 +14,7 @@
 /** @type {import('@docusaurus/plugin-content-docs').SidebarsConfig} */
 const sidebars = {
   // By default, Docusaurus generates a sidebar from the docs folder structure
+    // By default, Docusaurus generates a sidebar from the docs folder structure
   defaultSidebar: [
     {
       type: 'category',
@@ -27,8 +28,8 @@ const sidebars = {
           type: 'category',
           label: 'Product Summary',
           items: [
-            'Product Summary/Product Summary',
-            'Product Summary/Invariant Calculation'
+             'Product Summary/Product Summary',
+             'Product Summary/Invariant Calculation'
           ],
         },
         'Yield Opportunities',
@@ -54,34 +55,13 @@ const sidebars = {
       type: 'category',
       label: 'Testnet Guide',
       items: [
-        {
-          type: 'category',
-          label: 'Tokenomics',
-          items: [
-            'Getting Started',
-            'Nami Setup',
-            'Eternl Setup',
-            'Testnet Faucet',
-            'Testnet'
-          ],
-        },
+        'Getting Started',
+        'Nami Setup',
         'Swap',
         'Liquidity',
         'Redeem',
-        'Create Liquidity',
-        'Lock Liquidity',
         'Orders',
-        'Badger',
-        {
-          type: 'category',
-          label: 'Learn More',
-          items: [
-            'Slippage',
-            'Price Impact',
-            'Liquidity Pool',
-            'Honey Fee'
-          ],
-        },
+        'Badger'
       ],
       collapsible: false,
     },
