@@ -104,13 +104,33 @@ const sidebars = {
       type: 'category',
       label: 'Testnet Guide',
       items: [
-        'Getting Started',
-        'Nami Setup',
+        {
+          type: 'category',
+          label: 'Tokenomics',
+          items: [
+            'Getting Started',
+            'Nami Setup',
+            'Testnet Faucet',
+            'Testnet'
+          ],
+        },
         'Swap',
         'Liquidity',
         'Redeem',
+        'Create Liquidity',
+        'Lock Liquidity',
         'Orders',
         'Badger'
+         {
+          type: 'category',
+          label: 'Learn More',
+          items: [
+            'Slippage',
+            'Price Impact',
+            'Liquidity Pool',
+            'Honey Fee'
+          ],
+        },
       ],
       collapsible: false,
     },
