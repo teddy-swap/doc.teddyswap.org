@@ -6,13 +6,13 @@
 
 - Knowledge on how to build, install and run the [cardano-node](https://github.com/input-output-hk/cardano-node), you can learn more from the Cardano Developer Portal (https://developers.cardano.org/docs/get-started/installing-cardano-node), which I also wrote a few year ago 😉.
 - Fully synced cardano-node on the **preview** testnet
-- Knowledge how to operate Docker containers.
+- Knowledge how to operate [Docker](https://www.docker.com) containers.
 
 ## Badger Wallet
 
-First, you will need a cardano-cli generated private key text envelope. If you already have one please skip this step.
+First, you will need a `cardano-cli` generated private key text envelope. If you already have one please skip this step.
 
-> You can also generate a private key text envelope derived from a BIP39 mnemonic seed using cardano-addresses but it will not be convered in this document. Please see https://github.com/input-output-hk/cardano-addresses for more information.
+> You can also generate a private key text envelope derived from a BIP39 mnemonic seed using `cardano-addresses` but it will not be convered in this document. Please see https://github.com/input-output-hk/cardano-addresses for more information.
 
 ```
 cardano-cli address key-gen \
@@ -20,7 +20,7 @@ cardano-cli address key-gen \
 --signing-key-file payment.skey
 ```
 
-Or if you don't have cardano-cli installed, you can use Docker (create a keys dir first):
+Or if you don't have `cardano-cli` installed, you can use Docker (create a keys dir first):
 
 ```
 docker run -v $(pwd)/keys:/keys inputoutput/cardano-node cli address key-gen
