@@ -11,7 +11,7 @@ Create dual-asset liquidity pairs, providing equal amounts of stablecoins, then 
 
 ## Off-chain Operators
 
-Run [Badger/Batcher bots](https://docs.teddyswap.org/testnet-guide/how-to-run-a-batcher-badge) bots to earn platform fees over time. 
+Run [Badger/Batcher bots](https://docs-teddyswap-org.pages.dev/docs/Badger) to earn platform fees over time. 
 
 ## Savings Vaults
 
