@@ -56,12 +56,11 @@ const sidebars = {
       items: [
         {
           type: 'category',
-          label: 'Tokenomics',
+          label: 'Getting Started',
           items: [
             'Getting Started',
             'Nami Setup',
-            'Testnet Faucet',
-            'Testnet',
+            'Eternl Setup'
           ],
         },
         'Swap',
