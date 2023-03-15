@@ -42,13 +42,7 @@ const sidebars = {
             'Tokenomics/Chart',
             'Tokenomics/Yield Emissions',
             'Tokenomics/Staking Rewards',
-            'Tokenomics/Utility',
-           // {
-             // type: 'link',
-              //label: 'Testnet Faucet',
-              //href: 'https://docs.cardano.org/cardano-testnet/tools/faucet'
-            //},
-            //'Testnet'
+            'Tokenomics/Utility'
           ],
         },
         'Governance',
@@ -66,12 +60,8 @@ const sidebars = {
           items: [
             'Getting Started',
             'Nami Setup',
-            {
-              type: 'link',
-              label: 'Testnet Faucet',
-              href: 'https://docs.cardano.org/cardano-testnet/tools/faucet'
-            },
-            //'Testnet'
+            'Testnet Faucet',
+            'Testnet'
           ],
         },
         'Swap',
