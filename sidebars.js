@@ -120,7 +120,7 @@ const sidebars = {
         'Create Liquidity',
         'Lock Liquidity',
         'Orders',
-        'Badger'
+        'Badger',
          {
           type: 'category',
           label: 'Learn More',
