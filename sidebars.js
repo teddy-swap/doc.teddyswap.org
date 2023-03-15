@@ -111,7 +111,7 @@ const sidebars = {
             'Getting Started',
             'Nami Setup',
             'Testnet Faucet',
-            'Testnet'
+            'Testnet',
           ],
         },
         'Swap',
