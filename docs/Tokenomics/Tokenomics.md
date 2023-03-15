@@ -1,4 +1,3 @@
-title: Introduction
 ---
 sidebar_position: 9
 ---
