@@ -110,7 +110,7 @@ const config = {
               },
               {
                 label: 'Testnet Guide',
-                to: '/docs/TESTNET GUIDE/Getting Started',
+                to: '/docs/Getting Started',
               },
             ],
           },
