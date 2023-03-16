@@ -2,16 +2,20 @@ import React from 'react';
 import clsx from 'clsx';
 import styles from './styles.module.css';
 
+const teddy1 = require('@site/static/img/teddy-1.png').default;
+const teddy2 = require('@site/static/img/teddy-2.png').default;
+const teddy3 = require('@site/static/img/teddy-3.png').default;
+
 type FeatureItem = {
   title: string;
-  Svg: React.ComponentType<React.ComponentProps<'svg'>>;
+  image: string;
   description: JSX.Element;
 };
 
 const FeatureList: FeatureItem[] = [
   {
     title: 'Democratized Ownership',
-    Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
+    image: teddy1,
     description: (
       <>
         Deconstruct the walled gardens of classic financial institutions by becoming an owner of the TeddySwap protocol.
@@ -20,16 +24,16 @@ const FeatureList: FeatureItem[] = [
   },
   {
     title: 'Efficient Liquidity',
-    Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
+    image: teddy2,
     description: (
       <>
-       Level up beyond constant product pools and let your capital work for you by providing liquidity to historically stable and more predictable assets.
+        Level up beyond constant product pools and let your capital work for you by providing liquidity to historically stable and more predictable assets.
       </>
     ),
   },
   {
     title: 'Yield Farming',
-    Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
+    image: teddy3,
     description: (
       <>
         Earn our platform token TEDY by providing liquidity to the available stablecoin pairs on our decentralized exchange.
@@ -38,14 +42,14 @@ const FeatureList: FeatureItem[] = [
   },
 ];
 
-function Feature({title, Svg, description}: FeatureItem) {
+function Feature({ title, image, description }: FeatureItem) {
   return (
     <div className={clsx('col col--4')}>
       <div className="text--center">
-        <Svg className={styles.featureSvg} role="img" />
+        <img src={image} alt="" />
       </div>
-      <div className="text--center padding-horiz--md">
-        <h3>{title}</h3>
+      <div className="text--center feat-description padding-horiz--md">
+        <h3 className="feat-heading">{title}</h3>
         <p>{description}</p>
       </div>
     </div>
@@ -57,9 +61,7 @@ export default function HomepageFeatures(): JSX.Element {
     <section className={styles.features}>
       <div className="container">
         <div className="row">
-          {FeatureList.map((props, idx) => (
-            <Feature key={idx} {...props} />
-          ))}
+           {FeatureList.map((props, idx) => <Feature key={idx} {...props} />)}         
         </div>
       </div>
     </section>

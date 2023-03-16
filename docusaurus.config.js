@@ -47,9 +47,7 @@ const config = {
         blog: {
           showReadingTime: true,
           // Please change this to your repo.
-          // Remove this to remove the "edit this page" links.
-          editUrl:
-            'https://github.cTestnet Guom/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+          // Remove this to remove the "edit this page" links.  
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
@@ -62,7 +60,7 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       // Replace with your project's social card
-      image: 'img/docusaurus-social-card.jpg',
+      image: 'img/TeddySwap-Card.jpg',
       navbar: {
         title: 'TeddySwap',
         logo: {
@@ -153,13 +151,14 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} TeddySwap Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} TeddySwap. Built with Docusaurus.`,
       },
       prism: {
         theme: lightCodeTheme,
         darkTheme: darkCodeTheme,
       },
     }),
+    plugins: ['@docusaurus/plugin-ideal-image']
 };
 
 module.exports = config;

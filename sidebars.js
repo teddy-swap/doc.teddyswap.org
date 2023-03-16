@@ -56,7 +56,7 @@ const sidebars = {
       items: [
         {
           type: 'category',
-          label: 'Getting Started',
+          label: 'Overview',
           items: [
             'Getting Started',
             'Nami Setup',

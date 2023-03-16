@@ -12,4 +12,4 @@
 
 ![Nami](./img/Nami-Preview.webp)
 
-4. You may now receive testnet tokens from the Cardano testnet faucet: https://docs.cardano.org/cardano-testnet/tools/faucet
+4. You may now receive testnet tokens from the [Cardano Testnet Faucet.](https://docs.cardano.org/cardano-testnet/tools/faucet)

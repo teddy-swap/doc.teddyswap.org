@@ -1,5 +1,5 @@
 ---
-sidebar_position: 9
+title: Overview
 ---
 # Tokenomics
 ### TEDY Token Economics
