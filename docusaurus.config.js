@@ -159,12 +159,12 @@ const config = {
       },
       algolia: {
         // The application ID provided by Algolia
-        appId: 'MFVD14WG33',
+        appId: '2JQ8P2BO2J',
 
         // Public API key: it is safe to commit it
-        apiKey: 'e8f42d81fbcf622eefe3d86c5d698fd8',
+        apiKey: 'faac47fcdc04037768efb1769546c68b',
 
-        indexName: 'DOCS',
+        indexName: 'teddyswap',
 
         // Optional: see doc section below
         contextualSearch: true,
