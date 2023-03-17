@@ -94,12 +94,6 @@ const config = {
             href: 'https://tbc.teddyswap.org',
             position: 'left',
           },
-          // {
-          //   href: 'https://github.com/teddy-swap',
-          //   html: '<div class="github-icon"></div>',
-          //   position: 'right',
-          //   target: '_blank',
-          // },
           {
             href: 'https://github.com/teddy-swap',
             position: 'right',
