@@ -3,11 +3,17 @@
  * and scoped locally.
  */
 
+.hero.hero--primary {
+  color: white;
+}
+
 .heroBanner {
   padding: 4rem 0;
   text-align: center;
   position: relative;
   overflow: hidden;
+  background-color: #153B49;
+  color: white;
 }
 
 @media screen and (max-width: 996px) {
@@ -20,4 +26,8 @@
   display: flex;
   align-items: center;
   justify-content: center;
+}
+
+h1 .hero__title, p .hero__subtitle {
+  color: white !important;
 }

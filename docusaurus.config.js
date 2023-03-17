@@ -90,9 +90,21 @@ const config = {
             position: 'left',
           },
           {
+            label: 'NFT',
+            href: 'https://tbc.teddyswap.org',
+            position: 'left',
+          },
+          // {
+          //   href: 'https://github.com/teddy-swap',
+          //   html: '<div class="github-icon"></div>',
+          //   position: 'right',
+          //   target: '_blank',
+          // },
+          {
             href: 'https://github.com/teddy-swap',
-            label: 'GitHub',
             position: 'right',
+            className: 'github-icon',
+            'aria-label': 'GitHub repository',
           },
         ],
       },
