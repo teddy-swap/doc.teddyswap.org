@@ -1,4 +1,7 @@
 # TeddySwap Airdrop Tracker <img src="static/img/favicon.svg" width="50" height="50"/> 
+Welcome to our Giveaway Tracker page! This is where you can easily keep track of all the past and ongoing giveaways we've held, so you can stay up-to-date on what you've entered and what you've won.
+
+We know how important it is to our community to have transparency and easy access to information, so we've created this page as a way to provide just that. You'll find all of our past giveaways listed here, along with the winners and the prizes they received.
 
 | **EVENT** | **TOTAL** | **PARTICIPANTS** | **WINNERS SELECTED** | **Released Y/N** |
 |:-----------:|:------------:|:----:|:-----:|:-----:|
