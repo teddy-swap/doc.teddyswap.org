@@ -79,8 +79,8 @@ const sidebars = {
             'Liquidity Pool',
             'Honey Fee'
           ],
-         'TeddySwap-Airdrop-Tracker'
         },
+        'TeddySwap-Airdrop-Tracker'
       ],
       collapsible: false,
     },
