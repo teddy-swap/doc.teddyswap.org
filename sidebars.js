@@ -80,10 +80,17 @@ const sidebars = {
             'Honey Fee'
           ],
         },
-        'TeddySwap-Airdrop-Tracker'
       ],
       collapsible: false,
     },
+    {
+        type: 'category',
+        label: 'Others',
+        items: [
+        'TeddySwap-Airdrop-Tracker'
+        ],
+      },
   ],
+       collapsible: false,
 };
 module.exports = sidebars;
