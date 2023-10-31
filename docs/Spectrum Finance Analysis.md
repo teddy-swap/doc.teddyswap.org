@@ -13,9 +13,9 @@
             - Successful adherence to the order instructions (e.g., slippage limit) leading to the unlocking and application to the liquidity pool.
             - Order cancellation and refund.
         - Off-chain actors are responsible for executing the locking or unlocking actions in adherence to the validator's rules, while also updating the pool state and managing the transfer of order assets to users in exchange for fees.
-        - Deposit Validator:
-            - Functions similarly to Swap Validator but for liquidity addition.
-            - Issues Liquidity Tokens as proof of liquidity shares in a specific pool to depositors.
+    - Deposit Validator:
+        - Functions similarly to Swap Validator but for liquidity addition.
+        - Issues Liquidity Tokens as proof of liquidity shares in a specific pool to depositors.
     - Redeem Validator:
         - Mirrors the functionality of Deposit and Swap Validators for liquidity and fee retrieval.
         - Enables users to exchange Liquidity Tokens for actual liquidity plus any accumulated fees.
