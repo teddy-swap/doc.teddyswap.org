@@ -27,6 +27,10 @@
 
 - Liquidity Pools
     - Creation:
+        - Creation Transaction:
+            - Mint Tokens
+            - Lock Tokens to Pool
+            - Others
         - Anyone can establish a liquidity pool, leading to what are termed Unverified Liquidity Pools.
             - One critical example concerning security is where an unlocked Liquidity Token Policy is in place. This policy could be exploited, enabling the pool creator to mint additional tokens, thereby potentially draining liquidity from the pool.
     - Verified Liquidity Pools:
@@ -55,7 +59,8 @@
 ```haskell
 _ <- submitTx tx
 ```
-
+ - The batcher must synchronize at the point before the pools are created or must atleast see a succesful transaction for the pool creation, swap or add / remove liquidity.
+ 
 It's imperative to update the `cabal.project` file to reference the amended `cardano-dex-contracts` to ensure successful order batching. For instance:
 
 For example:
